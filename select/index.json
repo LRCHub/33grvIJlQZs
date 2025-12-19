@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "another",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2025-12-19T06:19:25.837016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Another Year",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Another_Year_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "artist": "B.J. Thomas",
+      "has_synced": false,
+      "path": "select/02_(Hey_Won't_You_Play)_Another_Somebody_Done_Somebody_Wrong_Song_B.J._Thomas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Another Lonely Song",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/03_Another_Lonely_Song_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Another Puff",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/04_Another_Puff_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Another Try",
+      "artist": "Josh Turner feat. Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/05_Another_Try_Josh_Turner_feat._Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Another Try (Album Version)",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/06_Another_Try_(Album_Version)_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Come Back as Another Woman",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/07_I'll_Come_Back_as_Another_Woman_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Never Find Another You",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/08_I'll_Never_Find_Another_You_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Another Day In Paradise",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/09_Just_Another_Day_In_Paradise_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Another Love",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/10_Just_Another_Love_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just Another Woman In Love",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/11_Just_Another_Woman_In_Love_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Song for Another Time",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/12_Song_for_Another_Time_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Would You Take Another Chance On Me?",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/13_Would_You_Take_Another_Chance_On_Me_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Brick In The Wall (Part 2) - Live",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/14_Another_Brick_In_The_Wall_(Part_2)_-_Live_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Another Brick In the Wall, Pt. 2",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/15_Another_Brick_In_the_Wall,_Pt._2_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Another Brick In The Wall (Part II)",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/16_Another_Brick_In_The_Wall_(Part_II)_Pink_Floyd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "another",
+      "artist": "岸田教団 & The 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_another_岸田教団_&_The_明星ロケッツ.txt"
+    }
+  ]
+}
